@@ -95,3 +95,7 @@ google_cse:
 ## title: search
 ## ---
 
+#### QR Code
+qr_code:
+  enable: ture
+  src: img/qr-code.png
