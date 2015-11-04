@@ -118,6 +118,9 @@ $(document).ready(function(){
     (document.getElementsByTagName('head')[0] 
     || document.getElementsByTagName('body')[0]).appendChild(ds);
   })();
+  $(function() {
+    $('.ds-powered-by').hide();
+  });
 </script> 
 <% } %>
 <% if (page.layout=='tags'||page.layout=='categories'){ %>
