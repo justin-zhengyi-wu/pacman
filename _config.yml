@@ -68,7 +68,7 @@ author:
 
 #### Comment
 duoshuo: 
-  enable: true ## duoshuo.com
+  enable: false ## duoshuo.com
   short_name: justin4u   ## duoshuo short name.
 
 #### Share button
